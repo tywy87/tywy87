@@ -50,7 +50,7 @@ I'm a **Front End Web Developer** and lifelong learner, constantly exploring new
 🔗**Links**:
  <p>
   <a href="https://twyles.com/" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://twyles.com/assets/Tyler-Wyles-Resume.pdf" rel="nofollow"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://twyles.com/assets/Tyler-Wyles-Resume.pdf" rel="nofollow"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;"></a>
    <a href="https://www.linkedin.com/in/tylerwyles/" rel="nofollow"><img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
    <a href="mailto:tylerwyles@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
    <a href="https://www.instagram.com/tywy/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
