@@ -36,6 +36,7 @@ I'm a **Front End Web Developer** and lifelong learner, constantly exploring new
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" style="max-width: 100%;">
 <p>
   
 ---
